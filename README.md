@@ -8,14 +8,10 @@ To Develop a convolutional deep neural network for image classification and to v
 
 To develop a Convolutional Neural Network (CNN) for classifying fashion apparel images from the Fashion-MNIST dataset, including data preprocessing, model training with loss visualization, and evaluation of model performance on test images as well as handwritten scanned images.
 
-<img width="832" height="589" alt="image" src="https://github.com/user-attachments/assets/73e92ce4-5949-407f-94ce-3d4fee6d967a" />
-
-<img width="667" height="408" alt="image" src="https://github.com/user-attachments/assets/5a0a1c45-4f07-413e-bd51-03cd82e58287" />
 
 ## Neural Network Model
 
-<img width="1225" height="667" alt="image" src="https://github.com/user-attachments/assets/155850fb-6648-4056-8796-373a5c4703b6" />
-
+<img width="1551" height="794" alt="image" src="https://github.com/user-attachments/assets/c9dbad3c-8cea-4a51-83d1-8aaa850fea9f" />
 
 ## DESIGN STEPS
 
@@ -94,19 +90,19 @@ def train_model(model, train_loader, num_epochs=3):
 ## OUTPUT
 ### Training Loss per Epoch
 
-<img width="584" height="245" alt="image" src="https://github.com/user-attachments/assets/1d44795e-9ddf-4b68-97b8-4eebe30645a1" />
+<img width="461" height="248" alt="image" src="https://github.com/user-attachments/assets/9a61ce18-1115-475d-91a8-ac99d591111b" />
 
 ### Confusion Matrix
 
-<img width="971" height="772" alt="image" src="https://github.com/user-attachments/assets/5e835441-1b25-434a-ba71-dd5344ce80b1" />
+<img width="828" height="729" alt="image" src="https://github.com/user-attachments/assets/052f4dbe-6389-4f6c-87d3-ff6edc9e71ed" />
 
 ### Classification Report
 
-<img width="942" height="610" alt="image" src="https://github.com/user-attachments/assets/462287be-f0db-4bb9-8e0b-bd63d3715c20" />
+<img width="1043" height="633" alt="image" src="https://github.com/user-attachments/assets/c1634d13-2967-4325-8e17-c23c463745fd" />
 
 ### New Sample Data Prediction
 
-<img width="814" height="678" alt="image" src="https://github.com/user-attachments/assets/57f57733-3bad-42c2-8a84-3d9fd71dee62" />
+<img width="759" height="665" alt="image" src="https://github.com/user-attachments/assets/ce9cef6e-0a9e-4aee-abc6-930120e5f837" />
 
 ## RESULT
 
