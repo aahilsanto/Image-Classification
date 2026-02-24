@@ -8,6 +8,8 @@ To Develop a convolutional deep neural network for image classification and to v
 
 To develop a Convolutional Neural Network (CNN) for classifying fashion apparel images from the Fashion-MNIST dataset, including data preprocessing, model training with loss visualization, and evaluation of model performance on test images as well as handwritten scanned images.
 
+<img width="1258" height="270" alt="image" src="https://github.com/user-attachments/assets/6ce33fe9-142c-43e8-bb1d-d96ab0c496d5" />
+
 
 ## Neural Network Model
 
